@@ -9,6 +9,8 @@ Adds some more customization options to replies like forced and suppressed menti
 
 [Escape All Markdown](https://github.com/swishs-client-mod-plugins/escape-all-markdown): Adds a command to escape all markdown in a message.
 
+[Persist Settings Panel](https://github.com/swishs-client-mod-plugins/persist-settings-panel): Persists the panel that was last selected in settings when you click the settings button.
+
 ## [Cumcord](https://github.com/Cumcord/Cumcord/)
 [Sperm Bank](https://github.com/swishs-client-mod-plugins/sperm-bank): Lets you add discord messages to a personal "bank" of messages.
 
