@@ -1,3 +1,7 @@
+**NOTICE:**
+I've retired from Discord client modding for the forceible future.
+
+# Archive
 ## [Kernel](https://github.com/kernel-mod/electron)
 [Code Snippets](https://github.com/swishs-client-mod-plugins/code-snippets): A Discord package (eventually will be compatible with all kernel-compatible apps) that lets you add and manage custom JS, TS, JSX, CSS, and SCSS snippets via a built in editor (monaco).
 
